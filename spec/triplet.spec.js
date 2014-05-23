@@ -3,6 +3,7 @@
 var Triplet = require('../lib/triplet');
 
 describe('Triplet', function () {
+  // http://en.wikipedia.org/wiki/Pythagorean_triple
 
   it('calculates the sum', function () {
     expect(new Triplet(3, 4, 5).sum()).toBe(12);
