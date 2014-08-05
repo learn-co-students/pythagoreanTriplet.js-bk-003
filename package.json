@@ -1,6 +1,10 @@
 {
   "name": "Triplet",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:flatiron-school-curriculum/pythagoreanTriplet.js.git"
+  },
   "description": "Pythagorean Triplet",
   "dependencies": {
     "grunt": "~0.4.1",
